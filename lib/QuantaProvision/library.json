@@ -1,0 +1,7 @@
+{
+  "name": "QuantaProvision",
+  "version": "2.2.0",
+  "description": "First-time Wi-Fi setup page (network scan, save, live connect status showing the IP and quanta.local). Same flow as the reef doser's Provisioner.",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

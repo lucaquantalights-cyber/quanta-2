@@ -1,0 +1,5 @@
+Quanta Lights
+Device ID: quantacontroller1
+Claim Code: SSPJ-FA4Y
+MAC: E0:8C:FE:C1:11:14
+Setup: /setup.html

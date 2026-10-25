@@ -1,0 +1,7 @@
+{
+  "name": "QuantaWebUI",
+  "version": "2.0.0",
+  "description": "The phone web page, generated from ui/index.html by tools/embed_ui.py on every build.",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

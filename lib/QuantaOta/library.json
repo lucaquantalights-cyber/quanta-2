@@ -1,0 +1,7 @@
+{
+  "name": "QuantaOta",
+  "version": "2.0.0",
+  "description": "Fleet OTA: every controller installs the same firmware from the quanta/ folder, after manifest checks.",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "QuantaCore",
+  "version": "2.0.0",
+  "description": "Schedule, presets, groups, modes and settings validation. No hardware code; unit-tested on a PC.",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
